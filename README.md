@@ -10,7 +10,7 @@ Uma API completa para gerenciar médicos e seus respectivos dados. Este projeto 
 - **Spring Boot 3**
 - **Jakarta Validation**
 - **JPA / Hibernate**
-- **Banco de Dados H2 (para testes)**
+- **Banco de Dados MySql (para testes)**
 - **Maven**
 
 ---
@@ -45,5 +45,5 @@ O projeto segue a estrutura MVC (Model-View-Controller):
 ### Passos:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/MSouza27/Voll-M-dicos-API
+   git clone https://github.com/MSouza27/Voll-M-dicos-API
 
